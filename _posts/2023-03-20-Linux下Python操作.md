@@ -1,6 +1,8 @@
 ---
 title: Linux下Python的一些操作
-tag: TeXt, Linux, Python
+tag: TeXt
+tag: Linux
+tag: Python
 ---
 
 
