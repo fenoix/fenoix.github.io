@@ -1,5 +1,7 @@
 ---
 title: Linux下Python的一些操作
+sidebar:
+  nav: docs-zh-Hans
 tag: TeXt
 tag: Linux
 tag: Python
